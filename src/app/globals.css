@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  body {
+    @apply bg-stone-900 text-white relative
+  }
+
+  button {
+    @apply hover:scale-110 transition-all duration-100 focus:scale-110;
+  }
+}
+
+@layer utilities {
+  .btn{
+    @apply px-4 py-2 text-sm capitalize rounded-xl
+  }
+}
