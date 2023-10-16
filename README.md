@@ -1,3 +1,11 @@
+# Uma aplicação de controle de gastos, possuindo campos para inserir as entradas e saidas, gerando um gráfico mostrando os gastos em % e valores absolutos, além de exibir o saldo final. 
+
+![image](https://github.com/yokotaerik/financeTracker/assets/142221764/ce3e16f1-b906-4acb-a2dc-1ed1bd4356b9)
+
+
+
+
+# Como iniciar o projeto de acordo com a documentação oficial do Next
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
